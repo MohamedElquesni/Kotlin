@@ -1,3 +1,5 @@
+package Variables
+
 fun main() {
     var name1 = "ahmed";
     name1 = "sherif"; //var can change

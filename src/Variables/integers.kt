@@ -1,3 +1,5 @@
+package Variables
+
 fun main() {
     val byteNum: Byte = 127      // range: -128 to 127      cannot be automated
     val shortNum: Short = 32     // range: -32,768 to 32,767  cannot be automated

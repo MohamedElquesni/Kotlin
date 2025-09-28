@@ -1,3 +1,5 @@
+package Functions
+
 fun main() {
     val isCold = false
 

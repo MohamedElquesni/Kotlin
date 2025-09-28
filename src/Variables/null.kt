@@ -1,3 +1,5 @@
+package Variables
+
 fun main() {
     var default : Int = 5
     val nul : Int? = null

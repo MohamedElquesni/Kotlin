@@ -1,3 +1,5 @@
+package Loops
+
 fun main() {
     //default step 1
    for (item in 1..10)

@@ -1,3 +1,5 @@
+package Variables
+
 fun main() {
     val num1 = 15
     val num2 = 4.3
@@ -6,7 +8,7 @@ fun main() {
     println("Division : " + num1 / num2)
 
 
-    //add
+    //Functions.add
     println("Add : ${num1 + num2}")
 
     //sub

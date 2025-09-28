@@ -1,3 +1,5 @@
+package Variables
+
 fun main() {
     val fname : String = "Mohamed"
     val lname : String = "Hazem"
